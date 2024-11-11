@@ -1,7 +1,4 @@
-# Author: Kelly Shields
-# GitHub username: kellys1210
-# Date: 10/03/2023
-# Description:
+
 
 import json
 
